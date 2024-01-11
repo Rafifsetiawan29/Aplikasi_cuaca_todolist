@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "544547723903",
+    "project_id": "todoapp-70e84",
+    "storage_bucket": "todoapp-70e84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544547723903:android:d2f1d9db53e4b9d7cd3d4a",
+        "android_client_info": {
+          "package_name": "com.example.aplokasi_uas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZImP0TUKpNraOj335AhnAENtK4Jj59lE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

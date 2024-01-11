@@ -1,0 +1,30 @@
+name: aplokasi_uas
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.1.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.1.0
+  firebase_core: ^2.24.0
+  cloud_firestore: ^4.13.3
+  intl: ^0.18.1
+  flutter_slidable: ^3.0.1
+  weather: ^3.1.1
+  font_awesome_flutter: ^9.2.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logo.png
+    - assets/profil.jpg
